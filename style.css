@@ -1,0 +1,25 @@
+.baris{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.kolom{
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0px;
+}
+
+div .stok-harga{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(156, 185, 186, 0.795);
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+
+img{
+    width: 250px; 
+    height: 250px;
+}
